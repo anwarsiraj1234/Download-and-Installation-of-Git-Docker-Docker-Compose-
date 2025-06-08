@@ -32,3 +32,6 @@ powershell
 Copy
 Edit
 git clone https://github.com/frappe/frappe_docker
+FOR LOCAL HOST
+https://locall.host/8080/
+
